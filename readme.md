@@ -14,5 +14,5 @@ A sleek and simple weather application that allows users to input a location and
 - **CSS** for styling and layout.
 - **JavaScript** for fetching and displaying weather data dynamically.
 
-
+https://shalini-413.github.io/WEATHER-API/
 
